@@ -1,0 +1,16 @@
+C:\plst-MVC2\Introduction\MvcDemo\MvcDemo.Tests\bin\Debug\MvcDemo.Tests.dll.config
+C:\plst-MVC2\Introduction\MvcDemo\MvcDemo.Tests\bin\Debug\MvcDemo.Tests.dll
+C:\plst-MVC2\Introduction\MvcDemo\MvcDemo.Tests\bin\Debug\MvcDemo.Tests.pdb
+C:\plst-MVC2\Introduction\MvcDemo\MvcDemo.Tests\bin\Debug\MvcDemo.dll
+C:\plst-MVC2\Introduction\MvcDemo\MvcDemo.Tests\bin\Debug\MvcDemo.pdb
+C:\plst-MVC2\Introduction\MvcDemo\MvcDemo.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\plst-MVC2\Introduction\MvcDemo\MvcDemo.Tests\obj\Debug\MvcDemo.Tests.dll
+C:\plst-MVC2\Introduction\MvcDemo\MvcDemo.Tests\obj\Debug\MvcDemo.Tests.pdb
+C:\plst-MVC2\1.Introduction\MvcDemo\MvcDemo.Tests\bin\Debug\MvcDemo.Tests.dll.config
+C:\plst-MVC2\1.Introduction\MvcDemo\MvcDemo.Tests\bin\Debug\MvcDemo.Tests.dll
+C:\plst-MVC2\1.Introduction\MvcDemo\MvcDemo.Tests\bin\Debug\MvcDemo.Tests.pdb
+C:\plst-MVC2\1.Introduction\MvcDemo\MvcDemo.Tests\bin\Debug\MvcDemo.dll
+C:\plst-MVC2\1.Introduction\MvcDemo\MvcDemo.Tests\bin\Debug\MvcDemo.pdb
+C:\plst-MVC2\1.Introduction\MvcDemo\MvcDemo.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\plst-MVC2\1.Introduction\MvcDemo\MvcDemo.Tests\obj\Debug\MvcDemo.Tests.dll
+C:\plst-MVC2\1.Introduction\MvcDemo\MvcDemo.Tests\obj\Debug\MvcDemo.Tests.pdb

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7a338f80-0b41-49fa-b6e3-1fae647f9fcb" name="AHMEDK@DWNPC002 2012-08-27 09:31:50" runUser="DIALOGGROUP\AHMEDK" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="2edcb993-3a85-4346-9347-fcd7d44c4990">
+    <Deployment runDeploymentRoot="AHMEDK_DWNPC002 2012-08-27 09_31_50">
+      <DeploymentItem filename="C:\plst-MVC2\1.Introduction\MvcDemo\MvcDemo\bin\MvcDemo.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-08-27T09:31:50.7093916+09:30" queuing="2012-08-27T09:31:50.8444051+09:30" start="2012-08-27T09:31:50.8514058+09:30" finish="2012-08-27T09:31:51.0734280+09:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Index" storage="c:\plst-mvc2\1.introduction\mvcdemo\mvcdemo.tests\bin\debug\mvcdemo.tests.dll" id="44e7241d-5244-7605-83f8-5bbd391887f8">
+      <Execution id="032785e6-7e65-480c-abb5-885148c4cd33" />
+      <TestMethod codeBase="C:/plst-MVC2/1.Introduction/MvcDemo/MvcDemo.Tests/bin/Debug/MvcDemo.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MvcDemo.Tests.Controllers.HomeControllerTest, MvcDemo.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="44e7241d-5244-7605-83f8-5bbd391887f8" executionId="032785e6-7e65-480c-abb5-885148c4cd33" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="032785e6-7e65-480c-abb5-885148c4cd33" testId="44e7241d-5244-7605-83f8-5bbd391887f8" testName="Index" computerName="DWNPC002" duration="00:00:00.0114376" startTime="2012-08-27T09:31:50.8604067+09:30" endTime="2012-08-27T09:31:51.0514258+09:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="032785e6-7e65-480c-abb5-885148c4cd33">
+    </UnitTestResult>
+  </Results>
+</TestRun>

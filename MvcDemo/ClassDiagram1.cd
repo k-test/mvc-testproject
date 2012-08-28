@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MvcDemo.Controllers.ProcessController" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAEAAEACAAAAAAAAAAI=</HashCode>
+      <FileName>Controllers\ProcessController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Data.Constraint">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="System.Web.Mvc.IController">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
